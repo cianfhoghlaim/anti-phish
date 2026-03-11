@@ -1,5 +1,7 @@
 # anti-phish
 
+*** I no longer like Dr Enda Barrett because he gave me an 85% for this project rather than capping it at 40% ***
+
 This project intends to highlight how the latest machine learning techniques can be used to train a model that will detect phishing emails.
 
 Phishing has been described as "the most prevalent method of cybercrime that convinces people to provide sensitive information" (Salloum et al., 2021). Applications of social engineering, targeted research, and technological improvements have allowed for sophisticated phishing techniques to develop alongside improving attempts at their detection. There are many ways in which phishing attempts can be made, whether through SMS, phone calls, websites or emails. These attempts all tend to share the fact that they imitate a third party in an attempt to confuse the victim and convince them to share sensitive information.
